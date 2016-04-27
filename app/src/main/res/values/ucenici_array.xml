@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ucenici">
+        <item>ucenik1</item>
+        <item>ucenik2</item>
+        <item>ucenik3</item>
+        <item>ucenik4</item>
+        <item>ucenik5</item>
+    </string-array>
+</resources>
